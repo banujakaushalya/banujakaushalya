@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Banuja Kaushalya 👋
 
 > *Full-Stack Developer crafting robust, scalable web applications. Clean code advocate. Always building something new.*
 
@@ -42,7 +42,7 @@
 
 ## 🚀 What I'm Currently Building
 
-> 🔨 **[Project Name]** — *[One sentence description of your SaaS product]*
+> 🔨 **POS System Saas** — *where bussinesess can manage evrything at one place with dynamic features and prices*
 >
 > Focused on shipping a production-ready SaaS while integrating AI/ML capabilities and levelling up on cloud infrastructure.
 
@@ -74,5 +74,6 @@
 ---
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+  <i>"Impossible is a word to be found only in the dictionary of fools.
+" — Napoleon Bonaparte</i>
 </p>
