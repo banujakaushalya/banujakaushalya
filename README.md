@@ -43,7 +43,7 @@
 ## 🚀 What I'm Currently Building
 
 > 🔨 **POS System Saas** — *where bussinesess can manage evrything at one place with dynamic features and prices*
->
+> Learn2Earn hobby project
 > Focused on shipping a production-ready SaaS while integrating AI/ML capabilities and levelling up on cloud infrastructure.
 
 ---
@@ -51,8 +51,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=banujakaushalya&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banujakaushalya&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" />
 </p>
 
 ---
