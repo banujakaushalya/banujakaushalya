@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 286" width="900" height="286" role="img" aria-label="Tech Stack Matrix">
+  <defs>
+    <linearGradient id="stack-dark-0-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d111a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="stack-dark-0-sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#22d3ee" stop-opacity="0.75"/>
+      <stop offset="65%" stop-color="#818cf8" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="stack-dark-0-brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="58%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  
+    <linearGradient id="stack-dark-1-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d111a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="stack-dark-1-sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#818cf8" stop-opacity="0.75"/>
+      <stop offset="65%" stop-color="#818cf8" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="stack-dark-1-brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="58%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  
+    <linearGradient id="stack-dark-2-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d111a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="stack-dark-2-sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#a78bfa" stop-opacity="0.75"/>
+      <stop offset="65%" stop-color="#818cf8" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="stack-dark-2-brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="58%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  
+    <linearGradient id="stack-dark-3-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d111a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="stack-dark-3-sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#34d399" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#34d399" stop-opacity="0.75"/>
+      <stop offset="65%" stop-color="#818cf8" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="stack-dark-3-brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="58%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+  
+      <g>
+        <g transform="translate(0, 0)">
+          
+    <rect x="0.5" y="0.5" width="441" height="134" rx="16" fill="url(#stack-dark-0-bg)" stroke="#242f42" stroke-width="1"/>
+    <line x1="20" y1="1.25" x2="422" y2="1.25" stroke="url(#stack-dark-0-sheen)" stroke-width="1.2"/>
+  
+        </g>
+        <circle cx="24" cy="24" r="3.6" fill="#22d3ee"/>
+        <text x="36" y="27.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" letter-spacing="0.08em" fill="#94a3b8">FRONTEND &amp; UI</text>
+        <rect x="394" y="14" width="26" height="19" rx="6" fill="rgba(34,211,238,0.14)" stroke="rgba(34,211,238,0.36)" stroke-width="1"/>
+        <text x="407" y="27" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="600" fill="#67e8f9">06</text>
+        <line x1="22" y1="42" x2="420" y2="42" stroke="#1e293b" stroke-width="1"/>
+        <g><rect x="22" y="54" width="50" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="47.0" y="70.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">React</text></g>
+    <g><rect x="80" y="54" width="63" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="111.5" y="70.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">Next.js</text></g>
+    <g><rect x="151" y="54" width="81" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="191.5" y="70.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">TypeScript</text></g>
+    <g><rect x="240" y="54" width="81" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="280.5" y="70.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">JavaScript</text></g>
+    <g><rect x="22" y="89" width="94" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="69.0" y="105.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">Tailwind CSS</text></g>
+    <g><rect x="124" y="89" width="94" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="171.0" y="105.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">HTML5 / CSS3</text></g>
+      </g>
+      <g>
+        <g transform="translate(458, 0)">
+          
+    <rect x="0.5" y="0.5" width="441" height="134" rx="16" fill="url(#stack-dark-1-bg)" stroke="#242f42" stroke-width="1"/>
+    <line x1="20" y1="1.25" x2="422" y2="1.25" stroke="url(#stack-dark-1-sheen)" stroke-width="1.2"/>
+  
+        </g>
+        <circle cx="482" cy="24" r="3.6" fill="#818cf8"/>
+        <text x="494" y="27.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" letter-spacing="0.08em" fill="#94a3b8">BACKEND &amp; SYSTEMS</text>
+        <rect x="852" y="14" width="26" height="19" rx="6" fill="rgba(99,102,241,0.16)" stroke="rgba(129,140,248,0.38)" stroke-width="1"/>
+        <text x="865" y="27" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="600" fill="#a5b4fc">06</text>
+        <line x1="480" y1="42" x2="878" y2="42" stroke="#1e293b" stroke-width="1"/>
+        <g><rect x="480" y="54" width="63" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="511.5" y="70.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">Node.js</text></g>
+    <g><rect x="551" y="54" width="56" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="579.0" y="70.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">Python</text></g>
+    <g><rect x="615" y="54" width="44" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="637.0" y="70.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">Java</text></g>
+    <g><rect x="667" y="54" width="37" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="685.5" y="70.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">PHP</text></g>
+    <g><rect x="712" y="54" width="75" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="749.5" y="70.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">REST APIs</text></g>
+    <g><rect x="480" y="89" width="132" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="546.0" y="105.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">Clean Architecture</text></g>
+      </g>
+      <g>
+        <g transform="translate(0, 151)">
+          
+    <rect x="0.5" y="0.5" width="441" height="134" rx="16" fill="url(#stack-dark-2-bg)" stroke="#242f42" stroke-width="1"/>
+    <line x1="20" y1="1.25" x2="422" y2="1.25" stroke="url(#stack-dark-2-sheen)" stroke-width="1.2"/>
+  
+        </g>
+        <circle cx="24" cy="175" r="3.6" fill="#a78bfa"/>
+        <text x="36" y="178.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" letter-spacing="0.08em" fill="#94a3b8">AI / ML &amp; VISION</text>
+        <rect x="394" y="165" width="26" height="19" rx="6" fill="rgba(167,139,250,0.15)" stroke="rgba(167,139,250,0.38)" stroke-width="1"/>
+        <text x="407" y="178" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="600" fill="#c4b5fd">05</text>
+        <line x1="22" y1="193" x2="420" y2="193" stroke="#1e293b" stroke-width="1"/>
+        <g><rect x="22" y="205" width="119" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="81.5" y="221.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">Deep Neural Nets</text></g>
+    <g><rect x="149" y="205" width="56" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="177.0" y="221.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">OpenCV</text></g>
+    <g><rect x="213" y="205" width="88" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="257.0" y="221.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">InsightFace</text></g>
+    <g><rect x="309" y="205" width="81" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="349.5" y="221.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">Vector DBs</text></g>
+    <g><rect x="22" y="240" width="94" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="69.0" y="256.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">ML Pipelines</text></g>
+      </g>
+      <g>
+        <g transform="translate(458, 151)">
+          
+    <rect x="0.5" y="0.5" width="441" height="134" rx="16" fill="url(#stack-dark-3-bg)" stroke="#242f42" stroke-width="1"/>
+    <line x1="20" y1="1.25" x2="422" y2="1.25" stroke="url(#stack-dark-3-sheen)" stroke-width="1.2"/>
+  
+        </g>
+        <circle cx="482" cy="175" r="3.6" fill="#34d399"/>
+        <text x="494" y="178.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" letter-spacing="0.08em" fill="#94a3b8">DATABASES &amp; CLOUD</text>
+        <rect x="852" y="165" width="26" height="19" rx="6" fill="rgba(52,211,153,0.14)" stroke="rgba(52,211,153,0.36)" stroke-width="1"/>
+        <text x="865" y="178" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10" font-weight="600" fill="#6ee7b7">06</text>
+        <line x1="480" y1="193" x2="878" y2="193" stroke="#1e293b" stroke-width="1"/>
+        <g><rect x="480" y="205" width="81" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="520.5" y="221.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">PostgreSQL</text></g>
+    <g><rect x="569" y="205" width="63" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="600.5" y="221.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">MongoDB</text></g>
+    <g><rect x="640" y="205" width="50" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="665.0" y="221.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">MySQL</text></g>
+    <g><rect x="698" y="205" width="37" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="716.5" y="221.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">AWS</text></g>
+    <g><rect x="743" y="205" width="113" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="799.5" y="221.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">Docker &amp; DevOps</text></g>
+    <g><rect x="480" y="240" width="94" height="26" rx="6" fill="#161f30" stroke="#29364d" stroke-width="1"/><text x="527.0" y="256.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11.2" font-weight="500" fill="#cbd5e1">Git &amp; GitHub</text></g>
+      </g>
+</svg>

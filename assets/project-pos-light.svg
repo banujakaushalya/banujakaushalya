@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 196" width="440" height="196" role="img" aria-label="POS System SaaS">
+  <defs>
+    
+    <linearGradient id="proj-pos-light-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+    <linearGradient id="proj-pos-light-sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#059669" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#059669" stop-opacity="0.75"/>
+      <stop offset="65%" stop-color="#4f46e5" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#4f46e5" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="proj-pos-light-brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="58%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  
+  </defs>
+
+  
+    <rect x="0.5" y="0.5" width="439" height="195" rx="16" fill="url(#proj-pos-light-bg)" stroke="#e2e8f0" stroke-width="1"/>
+    <line x1="20" y1="1.25" x2="420" y2="1.25" stroke="url(#proj-pos-light-sheen)" stroke-width="1.2"/>
+  
+
+  <!-- Top Row: Icon Badge + Status Pill + Link Arrow -->
+  <rect x="22" y="18" width="28" height="28" rx="8" fill="rgba(5,150,105,0.09)" stroke="rgba(5,150,105,0.28)" stroke-width="1"/>
+  <g transform="translate(24, 20) scale(1)">
+    
+        <path d="M12 3L3 7.5L12 12L21 7.5L12 3Z" stroke="#059669" stroke-width="1.7" stroke-linejoin="round" fill="none"/>
+        <path d="M3 12L12 16.5L21 12" stroke="#059669" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path d="M3 16.5L12 21L21 16.5" stroke="#059669" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      
+  </g>
+
+  <rect x="58" y="21" width="119" height="22" rx="6" fill="rgba(5,150,105,0.09)" stroke="rgba(5,150,105,0.28)" stroke-width="1"/>
+  <circle cx="69" cy="32" r="2.8" fill="#059669"/>
+  <text x="77" y="35.4" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.8" font-weight="600" letter-spacing="0.06em" fill="#047857">BUILDING · SAAS</text>
+
+  <g transform="translate(394, 20)">
+    <rect x="0" y="0" width="24" height="24" rx="7" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+    <path d="M8.5 15.5L15.5 8.5M15.5 8.5H10M15.5 8.5V14" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+
+  <!-- Title & Description -->
+  <text x="22" y="74" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="-0.015em" fill="#0f172a">POS System SaaS</text>
+  <text x="22" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#475569">All-in-one SaaS platform where businesses run</text>
+  <text x="22" y="117" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#475569">operations with dynamic features &amp; pricing.</text>
+
+  <!-- Hairline Divider -->
+  <line x1="22" y1="136" x2="418" y2="136" stroke="#e2e8f0" stroke-width="1"/>
+
+  <!-- Tech Tags -->
+  <g><rect x="22" y="150" width="58" height="24" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/><text x="51.0" y="165.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="500" fill="#334155">Next.js</text></g>
+    <g><rect x="86" y="150" width="75" height="24" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/><text x="123.5" y="165.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="500" fill="#334155">TypeScript</text></g>
+    <g><rect x="167" y="150" width="58" height="24" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/><text x="196.0" y="165.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="500" fill="#334155">Node.js</text></g>
+    <g><rect x="231" y="150" width="75" height="24" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/><text x="268.5" y="165.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="500" fill="#334155">PostgreSQL</text></g>
+    <g><rect x="312" y="150" width="34" height="24" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/><text x="329.0" y="165.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="500" fill="#334155">AWS</text></g>
+</svg>

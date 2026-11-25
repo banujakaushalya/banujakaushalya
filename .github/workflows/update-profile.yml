@@ -1,0 +1,53 @@
+name: Update Profile Analytics & Snake
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-profile.yml"
+      - ".github/scripts/**"
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate live GitHub analytics SVGs
+        env:
+          GH_TOKEN: ${{ secrets.GH_METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ github.repository_owner }}
+        run: node .github/scripts/generate_stats.mjs
+
+      - name: Generate contribution snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake-light.svg?palette=github-light&color_snake=#4f46e5&color_dots=#eef2ff,#c7d2fe,#818cf8,#4f46e5,#06b6d4
+            assets/snake-dark.svg?palette=github-dark&color_snake=#818cf8&color_dots=#161b22,#1e1b4b,#3730a3,#6366f1,#22d3ee
+
+      - name: Commit updated assets if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          if git diff --cached --quiet assets/; then
+            echo "No changes to profile assets."
+          else
+            git commit -m "chore(profile): refresh live analytics & snake [skip ci]"
+            git push
+          fi

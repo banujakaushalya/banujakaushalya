@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 124" width="900" height="124" role="img" aria-label="Quote by Napoleon Bonaparte">
+  <defs>
+    
+    <linearGradient id="footer-dark-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d111a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="footer-dark-sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#818cf8" stop-opacity="0.75"/>
+      <stop offset="65%" stop-color="#22d3ee" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="footer-dark-brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="58%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  
+    <radialGradient id="footer-dark-glow" cx="50%" cy="100%" r="70%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  
+    <rect x="0.5" y="0.5" width="899" height="123" rx="16" fill="url(#footer-dark-bg)" stroke="#242f42" stroke-width="1"/>
+    <line x1="20" y1="1.25" x2="880" y2="1.25" stroke="url(#footer-dark-sheen)" stroke-width="1.2"/>
+  
+  <rect x="1" y="1" width="898" height="122" rx="16" fill="url(#footer-dark-glow)"/>
+
+  <text x="450" y="47" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-style="italic" fill="#f8fafc">&#8220;Impossible is a word to be found only in the dictionary of fools.&#8221;</text>
+  <text x="450" y="75" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.8" font-weight="600" letter-spacing="0.14em" fill="#94a3b8">— NAPOLEON BONAPARTE</text>
+
+  <rect x="402" y="94" width="96" height="2.4" rx="1.2" fill="url(#footer-dark-sheen)"/>
+</svg>

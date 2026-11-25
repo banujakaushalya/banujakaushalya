@@ -1,79 +1,142 @@
-# Hi there, I'm Banuja Kaushalya 👋
-
-> *Full-Stack Developer crafting robust, scalable web applications. Clean code advocate. Always building something new.*
-
----
-
-## 🧑‍💻 About Me
-
-```
-💻  Full-Stack Developer with a passion for building end-to-end products
-🚀  Currently building a SaaS product from the ground up
-🤖  Exploring AI/ML integration into modern web applications
-☁️  Deep-diving into DevOps & cloud architecture
-📦  Believer in clean architecture, good documentation & code that speaks for itself
-🌍  Open to collaborating on impactful, ambitious projects
-```
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Databases & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## 🚀 What I'm Currently Building
-
-> 🔨 **POS System Saas** — *where bussinesess can manage evrything at one place with dynamic features and prices*
-> Learn2Earn hobby project
-> Focused on shipping a production-ready SaaS while integrating AI/ML capabilities and levelling up on cloud infrastructure.
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=banujakaushalya&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banujakaushalya&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+    <img alt="Banuja Kaushalya — Full-Stack Engineer & SaaS Builder" src="./assets/hero-dark.svg" width="100%" />
+  </picture>
 </p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg" />
+    <img alt="Developer Profile Terminal & Engineering Focus" src="./assets/about-dark.svg" width="100%" />
+  </picture>
+</p>
 
-## 📬 Let's Connect
+### Featured Projects
 
-<p>
+<p align="center">
+  <a href="https://github.com/banujakaushalya" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-pos-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/project-pos-light.svg" />
+      <img alt="POS System SaaS" src="./assets/project-pos-dark.svg" width="49%" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://github.com/banujakaushalya" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-learn2earn-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/project-learn2earn-light.svg" />
+      <img alt="Learn2Earn" src="./assets/project-learn2earn-dark.svg" width="49%" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/banujakaushalya/face-recognition-web" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-face-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/project-face-light.svg" />
+      <img alt="face-recognition-web" src="./assets/project-face-dark.svg" width="49%" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://github.com/banujakaushalya/sentiment-analysis-neural-network" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-sentiment-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/project-sentiment-light.svg" />
+      <img alt="sentiment-analysis-neural-network" src="./assets/project-sentiment-dark.svg" width="49%" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/banujakaushalya/campushub" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/project-campushub-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/project-campushub-light.svg" />
+      <img alt="CampusHub" src="./assets/project-campushub-dark.svg" width="100%" />
+    </picture>
+  </a>
+</p>
+
+### Tech Stack
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/tech-stack-light.svg" />
+    <img alt="Tech Stack Matrix" src="./assets/tech-stack-dark.svg" width="100%" />
+  </picture>
+</p>
+
+### GitHub Analytics & Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" />
+    <img alt="GitHub Analytics Dashboard" src="./assets/stats-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg" />
+    <img alt="GitHub Contribution Snake" src="./assets/snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+### Let's Connect
+
+<!-- TODO: Update YOUR_LINKEDIN, YOUR_PORTFOLIO_URL, and YOUR_EMAIL@example.com -->
+<p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/social-linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/social-linkedin-light.svg" />
+      <img alt="LinkedIn" src="./assets/social-linkedin-dark.svg" width="176" />
+    </picture>
   </a>
+  &nbsp;
   <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/social-portfolio-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/social-portfolio-light.svg" />
+      <img alt="Portfolio" src="./assets/social-portfolio-dark.svg" width="176" />
+    </picture>
   </a>
+  &nbsp;
   <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/social-email-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/social-email-light.svg" />
+      <img alt="Email" src="./assets/social-email-dark.svg" width="176" />
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://github.com/banujakaushalya" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/social-github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/social-github-light.svg" />
+      <img alt="GitHub" src="./assets/social-github-dark.svg" width="176" />
+    </picture>
   </a>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/banujakaushalya">
+    <img src="https://komarev.com/ghpvc/?username=banujakaushalya&label=PROFILE+VIEWS&color=6366f1&style=flat-square" alt="Profile Views" />
+  </a>
+</p>
 
 <p align="center">
-  <i>"Impossible is a word to be found only in the dictionary of fools.
-" — Napoleon Bonaparte</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
+    <img alt="Impossible is a word to be found only in the dictionary of fools. — Napoleon Bonaparte" src="./assets/footer-dark.svg" width="100%" />
+  </picture>
 </p>

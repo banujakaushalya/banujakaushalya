@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 88" width="900" height="88" role="img" aria-label="CampusHub">
+  <defs>
+    
+    <linearGradient id="proj-campushub-light-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+    <linearGradient id="proj-campushub-light-sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#7c3aed" stop-opacity="0.75"/>
+      <stop offset="65%" stop-color="#0891b2" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#0891b2" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="proj-campushub-light-brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="58%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  
+  </defs>
+
+  
+    <rect x="0.5" y="0.5" width="899" height="87" rx="16" fill="url(#proj-campushub-light-bg)" stroke="#e2e8f0" stroke-width="1"/>
+    <line x1="20" y1="1.25" x2="880" y2="1.25" stroke="url(#proj-campushub-light-sheen)" stroke-width="1.2"/>
+  
+
+  <rect x="22" y="25" width="38" height="38" rx="10" fill="rgba(124,58,237,0.09)" stroke="rgba(124,58,237,0.28)" stroke-width="1"/>
+  <g transform="translate(29, 32)">
+    
+        <path d="M12 4L3 8.5L12 13L21 8.5L12 4Z" stroke="#7c3aed" stroke-width="1.7" stroke-linejoin="round" fill="none"/>
+        <path d="M6.5 10.6V16.2C6.5 17.8 9 19.2 12 19.2C15 19.2 17.5 17.8 17.5 16.2V10.6" stroke="#7c3aed" stroke-width="1.7" stroke-linecap="round" fill="none"/>
+      
+  </g>
+
+  <text x="74" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="-0.015em" fill="#0f172a">CampusHub</text>
+  <rect x="176" y="22" width="175" height="21" rx="6" fill="rgba(124,58,237,0.09)" stroke="rgba(124,58,237,0.28)" stroke-width="1"/>
+  <circle cx="187" cy="32.5" r="2.8" fill="#7c3aed"/>
+  <text x="195" y="35.8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.6" font-weight="600" letter-spacing="0.06em" fill="#6d28d9">OPEN SOURCE · FULL-STACK</text>
+
+  <text x="74" y="61" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#475569">Student services platform coordinating clubs, events, workshops &amp; sports across institutions.</text>
+
+  <g><rect x="678" y="32" width="34" height="24" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/><text x="695.0" y="47.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="500" fill="#334155">PHP</text></g>
+    <g><rect x="718" y="32" width="46" height="24" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/><text x="741.0" y="47.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="500" fill="#334155">MySQL</text></g>
+    <g><rect x="770" y="32" width="58" height="24" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/><text x="799.0" y="47.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="500" fill="#334155">Web App</text></g>
+
+  <g transform="translate(854, 32)">
+    <rect x="0" y="0" width="24" height="24" rx="7" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+    <path d="M8.5 15.5L15.5 8.5M15.5 8.5H10M15.5 8.5V14" stroke="#475569" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+</svg>
