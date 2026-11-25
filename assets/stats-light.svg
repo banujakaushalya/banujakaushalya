@@ -85,15 +85,15 @@
         <rect x="0" y="0" width="210" height="54" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
         <rect x="10" y="12" width="3" height="30" rx="1.5" fill="#4f46e5"/>
         <text x="22" y="21" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="600" letter-spacing="0.06em" fill="#64748b">CONTRIBUTIONS</text>
-        <text x="22" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" font-weight="700" fill="#0f172a">96</text>
+        <text x="22" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" font-weight="700" fill="#0f172a">77</text>
         <text x="198" y="41" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.8" fill="#475569">Last 12 months</text>
       </g>
       <g transform="translate(242, 44)">
         <rect x="0" y="0" width="210" height="54" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
         <rect x="10" y="12" width="3" height="30" rx="1.5" fill="#059669"/>
         <text x="22" y="21" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="600" letter-spacing="0.06em" fill="#64748b">CURRENT STREAK</text>
-        <text x="22" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" font-weight="700" fill="#0f172a">10d</text>
-        <text x="198" y="41" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.8" fill="#475569">Best: 14d</text>
+        <text x="22" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" font-weight="700" fill="#0f172a">1d</text>
+        <text x="198" y="41" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.8" fill="#475569">Best: 2d</text>
       </g>
       <g transform="translate(20, 108)">
         <rect x="0" y="0" width="210" height="54" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
@@ -106,8 +106,8 @@
         <rect x="0" y="0" width="210" height="54" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
         <rect x="10" y="12" width="3" height="30" rx="1.5" fill="#7c3aed"/>
         <text x="22" y="21" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="600" letter-spacing="0.06em" fill="#64748b">PRS &amp; STARS</text>
-        <text x="22" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" font-weight="700" fill="#0f172a">0 · ★0</text>
-        <text x="198" y="41" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.8" fill="#475569">Issues: 0</text>
+        <text x="22" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18.5" font-weight="700" fill="#0f172a">5 · ★0</text>
+        <text x="198" y="41" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.8" fill="#475569">Issues: 1</text>
       </g>
   </g>
 
@@ -125,38 +125,44 @@
 
     <rect x="510" y="50" width="368" height="10" rx="5" fill="#f8fafc"/>
     <g clip-path="url(#stats-light-lang-bar)">
-      <rect x="510.0" y="50" width="141.3" height="10" fill="#f1e05a"/><rect x="651.3" y="50" width="107.5" height="10" fill="#4F5D95"/><rect x="758.8" y="50" width="68.4" height="10" fill="#3572A5"/><rect x="827.2" y="50" width="32.4" height="10" fill="#e34c26"/><rect x="859.6" y="50" width="18.4" height="10" fill="#563d7c"/>
+      <rect x="510.0" y="50" width="308.8" height="10" fill="#4F5D95"/><rect x="818.8" y="50" width="22.1" height="10" fill="#e34c26"/><rect x="840.8" y="50" width="18.0" height="10" fill="#3572A5"/><rect x="858.9" y="50" width="9.9" height="10" fill="#f1e05a"/><rect x="868.8" y="50" width="8.5" height="10" fill="#878787"/><rect x="877.3" y="50" width="0.7" height="10" fill="#64748b"/>
     </g>
     
       <g transform="translate(510, 84)">
         <rect x="0" y="0" width="176" height="22" rx="6" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
-        <circle cx="13" cy="11" r="4" fill="#f1e05a"/>
-        <text x="24" y="14.8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#0f172a">JavaScript</text>
-        <text x="166" y="14.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#475569">38.4%</text>
+        <circle cx="13" cy="11" r="4" fill="#4F5D95"/>
+        <text x="24" y="14.8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#0f172a">PHP</text>
+        <text x="166" y="14.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#475569">83.9%</text>
       </g>
       <g transform="translate(702, 84)">
         <rect x="0" y="0" width="176" height="22" rx="6" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
-        <circle cx="13" cy="11" r="4" fill="#4F5D95"/>
-        <text x="24" y="14.8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#0f172a">PHP</text>
-        <text x="166" y="14.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#475569">29.2%</text>
+        <circle cx="13" cy="11" r="4" fill="#e34c26"/>
+        <text x="24" y="14.8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#0f172a">HTML</text>
+        <text x="166" y="14.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#475569">6.0%</text>
       </g>
       <g transform="translate(510, 112)">
         <rect x="0" y="0" width="176" height="22" rx="6" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
         <circle cx="13" cy="11" r="4" fill="#3572A5"/>
         <text x="24" y="14.8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#0f172a">Python</text>
-        <text x="166" y="14.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#475569">18.6%</text>
+        <text x="166" y="14.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#475569">4.9%</text>
       </g>
       <g transform="translate(702, 112)">
         <rect x="0" y="0" width="176" height="22" rx="6" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
-        <circle cx="13" cy="11" r="4" fill="#e34c26"/>
-        <text x="24" y="14.8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#0f172a">HTML</text>
-        <text x="166" y="14.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#475569">8.8%</text>
+        <circle cx="13" cy="11" r="4" fill="#f1e05a"/>
+        <text x="24" y="14.8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#0f172a">JavaScript</text>
+        <text x="166" y="14.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#475569">2.7%</text>
       </g>
       <g transform="translate(510, 140)">
         <rect x="0" y="0" width="176" height="22" rx="6" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
-        <circle cx="13" cy="11" r="4" fill="#563d7c"/>
-        <text x="24" y="14.8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#0f172a">CSS</text>
-        <text x="166" y="14.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#475569">5.0%</text>
+        <circle cx="13" cy="11" r="4" fill="#878787"/>
+        <text x="24" y="14.8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#0f172a">Hack</text>
+        <text x="166" y="14.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#475569">2.3%</text>
+      </g>
+      <g transform="translate(702, 140)">
+        <rect x="0" y="0" width="176" height="22" rx="6" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+        <circle cx="13" cy="11" r="4" fill="#64748b"/>
+        <text x="24" y="14.8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#0f172a">Other</text>
+        <text x="166" y="14.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#475569">0.2%</text>
       </g>
   </g>
 
@@ -171,26 +177,26 @@
     <circle cx="24" cy="220" r="3.5" fill="#0891b2"/>
     <text x="36" y="223.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10.8" font-weight="600" letter-spacing="0.08em" fill="#475569">30-DAY ACTIVITY GRAPH</text>
 
-    <rect x="545" y="209" width="84" height="21" rx="6" fill="rgba(8,145,178,0.09)" stroke="rgba(8,145,178,0.28)" stroke-width="1"/>
-    <text x="587.0" y="222.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="600" fill="#0e7490">PEAK: 7/DAY</text>
+    <rect x="615" y="209" width="84" height="21" rx="6" fill="rgba(8,145,178,0.09)" stroke="rgba(8,145,178,0.28)" stroke-width="1"/>
+    <text x="657.0" y="222.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="600" fill="#0e7490">PEAK: 9/DAY</text>
 
-    <rect x="637" y="209" width="241" height="21" rx="6" fill="rgba(79,70,229,0.09)" stroke="rgba(79,70,229,0.28)" stroke-width="1"/>
-    <text x="757.5" y="222.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="600" fill="#4338ca">SAMPLE SEED · RUN ACTION FOR LIVE DATA</text>
+    <rect x="707" y="209" width="171" height="21" rx="6" fill="rgba(79,70,229,0.09)" stroke="rgba(79,70,229,0.28)" stroke-width="1"/>
+    <text x="792.5" y="222.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="600" fill="#4338ca">LIVE SYNC · 2026-11-25 UTC</text>
 
     <!-- Gridlines & Y-Axis -->
     <line x1="46" y1="250" x2="874" y2="250" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="3 4"/>
     <line x1="46" y1="290" x2="874" y2="290" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="3 4"/>
     <line x1="46" y1="330" x2="874" y2="330" stroke="#e2e8f0" stroke-width="1"/>
 
-    <text x="38" y="253.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#64748b">7</text>
-    <text x="38" y="293.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#64748b">4</text>
+    <text x="38" y="253.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#64748b">9</text>
+    <text x="38" y="293.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#64748b">5</text>
     <text x="38" y="333.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#64748b">0</text>
 
     <!-- Area + Curve + Live Dot -->
-    <path d="M 46.0 318.6 C 50.8 316.7, 65.0 305.2, 74.6 307.1 C 84.1 309.0, 93.6 330.0, 103.1 330.0 C 112.6 328.1, 122.1 303.3, 131.7 295.7 C 141.2 288.1, 150.7 282.4, 160.2 284.3 C 169.7 286.2, 179.2 301.4, 188.8 307.1 C 198.3 312.9, 207.8 324.3, 217.3 318.6 C 226.8 312.9, 236.3 276.7, 245.9 272.9 C 255.4 269.0, 264.9 290.0, 274.4 295.7 C 283.9 301.4, 293.4 301.4, 303.0 307.1 C 312.5 312.9, 322.0 328.1, 331.5 330.0 C 341.0 330.0, 350.6 326.2, 360.1 318.6 C 369.6 311.0, 379.1 293.8, 388.6 284.3 C 398.1 274.8, 407.7 259.5, 417.2 261.4 C 426.7 263.3, 436.2 288.1, 445.7 295.7 C 455.2 303.3, 464.8 309.0, 474.3 307.1 C 483.8 305.2, 493.3 290.0, 502.8 284.3 C 512.3 278.6, 521.9 267.1, 531.4 272.9 C 540.9 278.6, 550.4 312.9, 559.9 318.6 C 569.4 324.3, 579.0 311.0, 588.5 307.1 C 598.0 303.3, 607.5 305.2, 617.0 295.7 C 626.6 286.2, 636.1 251.9, 645.6 250.0 C 655.1 250.0, 664.6 276.7, 674.1 284.3 C 683.7 291.9, 693.2 291.9, 702.7 295.7 C 712.2 299.5, 721.7 311.0, 731.2 307.1 C 740.8 303.3, 750.3 280.5, 759.8 272.9 C 769.3 265.2, 778.8 259.5, 788.3 261.4 C 797.9 263.3, 807.4 278.6, 816.9 284.3 C 826.4 290.0, 835.9 297.6, 845.4 295.7 C 855.0 293.8, 869.2 276.7, 874.0 272.9 L 874.0 330.0 L 46.0 330.0 Z" fill="url(#stats-light-area-grad)"/>
-    <path d="M 46.0 318.6 C 50.8 316.7, 65.0 305.2, 74.6 307.1 C 84.1 309.0, 93.6 330.0, 103.1 330.0 C 112.6 328.1, 122.1 303.3, 131.7 295.7 C 141.2 288.1, 150.7 282.4, 160.2 284.3 C 169.7 286.2, 179.2 301.4, 188.8 307.1 C 198.3 312.9, 207.8 324.3, 217.3 318.6 C 226.8 312.9, 236.3 276.7, 245.9 272.9 C 255.4 269.0, 264.9 290.0, 274.4 295.7 C 283.9 301.4, 293.4 301.4, 303.0 307.1 C 312.5 312.9, 322.0 328.1, 331.5 330.0 C 341.0 330.0, 350.6 326.2, 360.1 318.6 C 369.6 311.0, 379.1 293.8, 388.6 284.3 C 398.1 274.8, 407.7 259.5, 417.2 261.4 C 426.7 263.3, 436.2 288.1, 445.7 295.7 C 455.2 303.3, 464.8 309.0, 474.3 307.1 C 483.8 305.2, 493.3 290.0, 502.8 284.3 C 512.3 278.6, 521.9 267.1, 531.4 272.9 C 540.9 278.6, 550.4 312.9, 559.9 318.6 C 569.4 324.3, 579.0 311.0, 588.5 307.1 C 598.0 303.3, 607.5 305.2, 617.0 295.7 C 626.6 286.2, 636.1 251.9, 645.6 250.0 C 655.1 250.0, 664.6 276.7, 674.1 284.3 C 683.7 291.9, 693.2 291.9, 702.7 295.7 C 712.2 299.5, 721.7 311.0, 731.2 307.1 C 740.8 303.3, 750.3 280.5, 759.8 272.9 C 769.3 265.2, 778.8 259.5, 788.3 261.4 C 797.9 263.3, 807.4 278.6, 816.9 284.3 C 826.4 290.0, 835.9 297.6, 845.4 295.7 C 855.0 293.8, 869.2 276.7, 874.0 272.9" fill="none" stroke="url(#stats-light-line-grad)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle class="live-halo" cx="874.0" cy="272.9" r="6" fill="#0891b2" opacity="0.35"/>
-    <circle cx="874.0" cy="272.9" r="3.8" fill="#0f172a" stroke="#0891b2" stroke-width="2"/>
+    <path d="M 46.0 330.0 C 50.8 330.0, 65.0 330.0, 74.6 330.0 C 84.1 330.0, 93.6 330.0, 103.1 330.0 C 112.6 330.0, 122.1 330.0, 131.7 330.0 C 141.2 330.0, 150.7 330.0, 160.2 330.0 C 169.7 330.0, 179.2 330.0, 188.8 330.0 C 198.3 330.0, 207.8 330.0, 217.3 330.0 C 226.8 330.0, 236.3 330.0, 245.9 330.0 C 255.4 330.0, 264.9 330.0, 274.4 330.0 C 283.9 330.0, 293.4 330.0, 303.0 330.0 C 312.5 330.0, 322.0 330.0, 331.5 330.0 C 341.0 330.0, 350.6 330.0, 360.1 330.0 C 369.6 330.0, 379.1 330.0, 388.6 330.0 C 398.1 316.7, 407.7 250.0, 417.2 250.0 C 426.7 250.0, 436.2 316.7, 445.7 330.0 C 455.2 330.0, 464.8 330.0, 474.3 330.0 C 483.8 330.0, 493.3 330.0, 502.8 330.0 C 512.3 330.0, 521.9 330.0, 531.4 330.0 C 540.9 330.0, 550.4 330.0, 559.9 330.0 C 569.4 330.0, 579.0 330.0, 588.5 330.0 C 598.0 330.0, 607.5 330.0, 617.0 330.0 C 626.6 330.0, 636.1 330.0, 645.6 330.0 C 655.1 330.0, 664.6 330.0, 674.1 330.0 C 683.7 330.0, 693.2 330.0, 702.7 330.0 C 712.2 330.0, 721.7 330.0, 731.2 330.0 C 740.8 330.0, 750.3 330.0, 759.8 330.0 C 769.3 330.0, 778.8 330.0, 788.3 330.0 C 797.9 330.0, 807.4 330.0, 816.9 330.0 C 826.4 330.0, 835.9 330.0, 845.4 330.0 C 855.0 328.5, 869.2 322.6, 874.0 321.1 L 874.0 330.0 L 46.0 330.0 Z" fill="url(#stats-light-area-grad)"/>
+    <path d="M 46.0 330.0 C 50.8 330.0, 65.0 330.0, 74.6 330.0 C 84.1 330.0, 93.6 330.0, 103.1 330.0 C 112.6 330.0, 122.1 330.0, 131.7 330.0 C 141.2 330.0, 150.7 330.0, 160.2 330.0 C 169.7 330.0, 179.2 330.0, 188.8 330.0 C 198.3 330.0, 207.8 330.0, 217.3 330.0 C 226.8 330.0, 236.3 330.0, 245.9 330.0 C 255.4 330.0, 264.9 330.0, 274.4 330.0 C 283.9 330.0, 293.4 330.0, 303.0 330.0 C 312.5 330.0, 322.0 330.0, 331.5 330.0 C 341.0 330.0, 350.6 330.0, 360.1 330.0 C 369.6 330.0, 379.1 330.0, 388.6 330.0 C 398.1 316.7, 407.7 250.0, 417.2 250.0 C 426.7 250.0, 436.2 316.7, 445.7 330.0 C 455.2 330.0, 464.8 330.0, 474.3 330.0 C 483.8 330.0, 493.3 330.0, 502.8 330.0 C 512.3 330.0, 521.9 330.0, 531.4 330.0 C 540.9 330.0, 550.4 330.0, 559.9 330.0 C 569.4 330.0, 579.0 330.0, 588.5 330.0 C 598.0 330.0, 607.5 330.0, 617.0 330.0 C 626.6 330.0, 636.1 330.0, 645.6 330.0 C 655.1 330.0, 664.6 330.0, 674.1 330.0 C 683.7 330.0, 693.2 330.0, 702.7 330.0 C 712.2 330.0, 721.7 330.0, 731.2 330.0 C 740.8 330.0, 750.3 330.0, 759.8 330.0 C 769.3 330.0, 778.8 330.0, 788.3 330.0 C 797.9 330.0, 807.4 330.0, 816.9 330.0 C 826.4 330.0, 835.9 330.0, 845.4 330.0 C 855.0 328.5, 869.2 322.6, 874.0 321.1" fill="none" stroke="url(#stats-light-line-grad)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle class="live-halo" cx="874.0" cy="321.1" r="6" fill="#0891b2" opacity="0.35"/>
+    <circle cx="874.0" cy="321.1" r="3.8" fill="#0f172a" stroke="#0891b2" stroke-width="2"/>
 
     <!-- X-Axis Labels -->
     <text x="46" y="350" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9.8" fill="#64748b">Oct 27</text>
